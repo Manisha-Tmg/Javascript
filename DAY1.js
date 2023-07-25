@@ -54,3 +54,16 @@ console.log(apple)
  }
 console.log(dict["excited"])
 
+
+console.log("operators in js")
+let a=4;
+let b=7;
+console.log("a+b=",a+b)
+console.log("a-b=",a-b)
+console.log("a/b",a/b)
+console.log("a**b=",a**b)
+console.log("a%b=",a%b)
+console.log("a++=",a++)//increment
+console.log("a--=",a--)//decrement
+console.log("++a=",++a)
+console.log("--a=",--a)
