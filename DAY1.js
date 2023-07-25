@@ -8,5 +8,49 @@
 // -subtract
 // *multiply
 // /divide
-//5>2 !==3>4
-"Manisha"+"tamang"
+//JS is case sensitive
+// console.log//prints the result in console.
+// var canbe updated and re-declared within its scope.
+//const cannot be updated and re-declared.
+//nn bb ss u
+
+
+//Non Primitive Data Type- Objects in js
+const item={
+    "a":5,
+    "b":false,
+    "v":undefined,
+
+}
+console.log(item["v"])
+
+
+// chapter-1 
+// practice set-Q1
+var time="Hello"
+are= "Namaste"
+s=time +are
+console.log(s);
+
+//  practice set-Q2
+console.log(typeof (time+are))
+
+//  practice set-Q3
+const apple={
+    color:"red",
+    number:5,
+    quantity:4,}
+
+//  practice set-Q4
+    apple["her"]="she"
+console.log(apple)
+
+ //  practice set-Q5
+ const dict={
+    excited:"very enthusiastic and eager.",
+    nervous:"easily agitated or alarmed.",
+    bad:"unpleasant, harmful, or undesirable.",
+
+ }
+console.log(dict["excited"])
+
