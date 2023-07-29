@@ -34,10 +34,10 @@ for(i = 0;i<n; i++){
  for (let h in obj){
   console.log("Marks of " + h + "are" + obj[h])
  }
-let sum =0
-let n =  prompt("enter the value of n")
-for (let c=0; c<n; c++){//prints from 0 t0 n-1
-    sum += c
+let SUM =0
+let N =  prompt("enter the value of n")
+for (let c=0; c<N; c++){//prints from 0 t0 n-1
+    SUM += c
 console.log(sum)}
  
 
